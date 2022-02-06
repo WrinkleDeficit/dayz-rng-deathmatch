@@ -1,0 +1,18 @@
+{
+	"GeneralData":
+	{
+		"disableRespawnDialog": 1
+	},
+    	"PlayerData":
+	{
+		"StaminaData":
+		{
+			"sprintStaminaModifierErc": 0,
+			"sprintStaminaModifierCro": 0,
+			"staminaWeightLimitThreshold": 6000.0,
+			"staminaMax": 100.0,
+			"staminaKgToStaminaPercentPenalty": 1.75,
+			"staminaMinCap": 5.0
+		}
+	}
+}
